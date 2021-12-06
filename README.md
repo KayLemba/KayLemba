@@ -2,7 +2,7 @@
 
 - 😃 I’m Kalolo Chola Lemba
 - 👀 I’m interested in developing software applications to solve real world problems
-- 🌱 I’m constantly learning new programming languages inorder to gain more knowledge on 
+- 🌱 I’m constantly learning new programming languages inorder to gain more knowledge on Software Development and web development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
 - Open and Available for work.
 - My hobbies are listening to music, coding, reading books and playing video games
@@ -10,7 +10,7 @@
 - 📫 You can reach me via mail: kaylemba@yahoo.com / kalololemba@gmail.com
 
 
-[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=KayLemba&show_icons=true&theme=tokyonight)](https://github.com/KayLembas/github-readme-stats)
+[![KayLemba's github stats](https://github-readme-stats.vercel.app/api?username=KayLemba&show_icons=true&theme=tokyonight)](https://github.com/KayLembas/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayLemba&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/KayLembas/github-readme-stats) 
 
