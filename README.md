@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
 - Open and Available for work.
 - My hobbies are listening to music, coding, reading books and playing video games
-- Currently studying software development at Microverse inc.
+- Just graduated and completed the Full-stack web develoment curriculum at Microverse inc.
 - 📫 You can reach me via mail: kaylemba@yahoo.com / kalololemba@gmail.com
 
 
